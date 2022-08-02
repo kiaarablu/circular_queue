@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\bin\Debug\circular queue finaly.exe.config
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\bin\Debug\circular queue finaly.exe
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\bin\Debug\circular queue finaly.pdb
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\obj\Debug\circular queue finaly.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\obj\Debug\circular queue finaly.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\obj\Debug\circular queue finaly.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\obj\Debug\circular queue finaly.exe
+D:\kia prjc\tamrin\circular queue finaly\circular queue finaly\obj\Debug\circular queue finaly.pdb
